@@ -1,4 +1,4 @@
-# simple_multi_display
+# Flutter Simple Multi Display Controll
 
 Introduction
 
