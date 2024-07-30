@@ -1,8 +1,10 @@
-# Flutter Simple Multi Display Controll
+# Flutter Simple Multi Display and Windows Managment
 
 Introduction
 
-Welcome to Simple Multi Display, a streamlined solution I've developed for managing multiple windows and passing information between the main and secondary windows in a Flutter application. This project aims to simplify the often complex task of window management, providing an intuitive and efficient way to handle multiple display scenarios.
+Welcome to Simple Multi Display, a streamlined solution I've developed for managing multiple windows and passing information between the main and secondary windows in a Flutter application. This project aims to simplify the often complex task of window management, providing an intuitive and efficient way to handle multiple display scenarios. The basic idea is to have a main window that “controls” and sends information to other secondary windows, perhaps arranged on different monitors/displays (hence the name).
+
+Given the lack of official material on this topic, I thought of a solution to simplify the management of multiple windows in Flutter applications.
 
 Features
 
